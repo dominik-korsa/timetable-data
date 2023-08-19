@@ -1,0 +1,12 @@
+{
+  "rspoId": 19483,
+  "slug": "sp-siercza",
+  "name": "Szkoła Podstawowa im. Królowej Jadwigi w Sierczy",
+  "versions": {
+    "2022_23v3": {
+      "type": "optivum",
+      "url": "https://sp-siercza.pl/plan/plan2022_23v3/index.html"
+    }
+  },
+  "mainVersion": "2022_23v3"
+}

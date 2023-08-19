@@ -1,0 +1,12 @@
+{
+  "rspoId": 15844,
+  "slug": "zssib",
+  "name": "Zespół Szkół Spożywczych i Biznesowych im. Marii-Curie Skłodowskiej w Jarosławiu",
+  "versions": {
+    "0": {
+      "type": "optivum",
+      "url": "http://www.zsschiojaroslaw.edu.pl/planlekcji/index.html"
+    }
+  },
+  "mainVersion": "0"
+}

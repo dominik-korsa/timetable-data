@@ -1,0 +1,12 @@
+{
+  "rspoId": 31522,
+  "slug": "zs1",
+  "name": "Zespół Szkół nr 1 we Wrocławiu",
+  "versions": {
+    "0": {
+      "type": "optivum",
+      "url": "http://www.zs1.wroc.pl/plan/"
+    }
+  },
+  "mainVersion": "0"
+}
